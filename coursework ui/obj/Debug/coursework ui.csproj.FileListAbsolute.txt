@@ -1,0 +1,20 @@
+D:\code\uni\c#\coursework ui\coursework ui\obj\Debug\coursework ui.csproj.AssemblyReference.cache
+D:\code\uni\c#\coursework ui\coursework ui\obj\Debug\coursework_ui.Properties.Resources.resources
+D:\code\uni\c#\coursework ui\coursework ui\obj\Debug\coursework ui.csproj.GenerateResource.cache
+D:\code\uni\c#\coursework ui\coursework ui\obj\Debug\coursework ui.csproj.CoreCompileInputs.cache
+D:\code\uni\c#\coursework ui\coursework ui\bin\Debug\coursework ui.exe.config
+D:\code\uni\c#\coursework ui\coursework ui\bin\Debug\coursework ui.exe
+D:\code\uni\c#\coursework ui\coursework ui\bin\Debug\coursework ui.pdb
+D:\code\uni\c#\coursework ui\coursework ui\bin\Debug\MySql.Data.dll
+D:\code\uni\c#\coursework ui\coursework ui\bin\Debug\System.Memory.dll
+D:\code\uni\c#\coursework ui\coursework ui\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\code\uni\c#\coursework ui\coursework ui\bin\Debug\System.Numerics.Vectors.dll
+D:\code\uni\c#\coursework ui\coursework ui\bin\Debug\System.Buffers.dll
+D:\code\uni\c#\coursework ui\coursework ui\bin\Debug\MySql.Data.xml
+D:\code\uni\c#\coursework ui\coursework ui\obj\Debug\coursework ui.csproj.CopyComplete
+D:\code\uni\c#\coursework ui\coursework ui\obj\Debug\coursework ui.exe
+D:\code\uni\c#\coursework ui\coursework ui\obj\Debug\coursework ui.pdb
+D:\code\uni\c#\coursework ui\coursework ui\obj\Debug\coursework_ui.Home.resources
+D:\code\uni\c#\coursework ui\coursework ui\obj\Debug\coursework_ui.AddNewPerson.resources
+D:\code\uni\c#\coursework ui\coursework ui\obj\Debug\coursework_ui.EditUser.resources
+D:\code\uni\c#\coursework ui\coursework ui\obj\Debug\coursework_ui.Login.resources
