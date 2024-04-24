@@ -1,0 +1,23 @@
+import random
+
+# Create a text file to write the queries
+with open("queries.txt", "w") as file:
+    # Generate 1000 random values for the users table
+    for i in range(1, 1001):
+        name = generate_random_string(10)
+        telephone = ''.join(random.choice(string.digits) for _ in range(10))
+        email = generate_random_string(10) + "@example.com"
+        role = random.choice(['teacher', 'admin', 'student'])
+        salary = round(random.uniform(20000, 80000), 2)
+        subject1 = generate_random_string(8)
+        subject2 = generate_random_string(8)
+        full_time = random.choice(['0', '1'])
+        working_hours = random.randint(20, 40)
+        subject1_current = generate_random_string(8)
+        subject2_current = generate_random_string(8)
+        subject1_previous = generate_random_string(8)
+        subject2_previous = generate_random_string(8)
+
+        # Insert the generated values into the users table
+        query = f"INSERT INTO `users` (`UserID`, `Name`, `Telephone`, `Email`, `Role`, `Salary`, `Subject1`, `Subject2`, `FullTime`, `WorkingHours`, `Subject1_Current`, `Subject2_Current`, `Subject1_Previous`, `Subject2_Previous`) VALUES ({i}, '{name}', '{telephone}', '{email}', '{role}', {salary}, '{subject1}', '{subject2}', '{full_time}', {working_hours}, '{subject1_current}', '{subject2_current}', '{subject1_previous}', '{subject2_previous}');"
+        file.write(query + "\n")
